@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GalleryDemo</string>
+    <string name="hello">欢迎使用画廊展示</string>
+</resources>
